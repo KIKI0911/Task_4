@@ -1,4 +1,4 @@
-package com.helloworld.greet;
+package com.information.country;
 
 public class ProvinceAndState {
     private final String provinceAndStateName;

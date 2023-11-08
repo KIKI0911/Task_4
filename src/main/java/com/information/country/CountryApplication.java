@@ -1,13 +1,13 @@
-package com.helloworld.greet;
+package com.information.country;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GreetApplication {
+public class CountryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GreetApplication.class, args);
+		SpringApplication.run(CountryApplication.class, args);
 	}
 
 }
